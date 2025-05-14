@@ -1,0 +1,162 @@
+Ex00:
+Job Title: Prompt Engineer
+
+Job Description:
+As a Prompt Engineer, your main mission is to design, implement, and optimize effective prompts that drive high-quality outputs in AI models, particularly in large language models (LLMs). You will collaborate with data scientists, machine learning engineers, and product teams to ensure that the generated prompts are tailored to meet specific use cases and produce consistent, accurate, and useful results. You will also be involved in continuously fine-tuning prompts based on real-world feedback, improving the overall interaction between AI models and users.
+
+Required Skills:
+
+Technical Skills:
+
+    • Proficiency in prompt engineering and natural language processing (NLP)
+    • Strong understanding of machine learning concepts, particularly large language models
+    • Experience with AI model fine-tuning and optimization
+    • Familiarity with programming languages such as Python, JavaScript, or others used in AI model development
+    • Experience with AI frameworks like TensorFlow, PyTorch, or OpenAI's GPT models
+
+Behavioral Skills:
+      
+    • Strong problem-solving and critical thinking skills
+    • Excellent communication skills, able to explain complex technical concepts to non-technical stakeholders
+    • Adaptability and eagerness to stay up-to-date with emerging AI trends and tools
+    • Collaborative mindset with the ability to work cross-functionally with diverse teams
+
+Qualifications:
+      
+    • Education: Bachelor’s degree in Computer Science, Data Science, Artificial Intelligence, or a related field (Master’s or PhD is a plus)
+    • Certifications: Relevant certifications in machine learning, AI, or NLP (e.g., Coursera, edX, or other recognized institutions)
+
+Experience:
+
+    • 2+ years of experience working with AI models or in NLP-related roles
+    • Demonstrated experience in creating effective prompts and optimizing machine learning models for natural language tasks
+    • Experience working in an agile development environment
+      
+Workplace:
+
+Hybrid or Remote, depending on the candidate's location and preference. Some travel may be required for team meetings and client interactions.
+
+Employment Conditions:
+
+    • Full-time, permanent position with competitive salary and benefits.
+    • Freelance or internship positions may be considered depending on experience and availability.
+
+
+
+
+Ex01:
+Generate several slogan proposals for a fictitious AI-powered tech company called "NeuraSpark." The company provides intelligent assistant tools that help creative professionals write, design, and brainstorm more efficiently. The slogans should be catchy, professional, and reflect the company’s mission of blending creativity with advanced AI technology.
+
+AI-Generated Slogan Proposals:
+    1. "Ignite Your Creativity with AI."
+    2. "NeuraSpark — Where Ideas Take Flight."
+    3. "Smart Tools. Brilliant Creations."
+    4. "Fueling Creativity with Intelligent Insight."
+    5. "Design Smarter. Write Faster. Create Better."
+    6. "AI That Thinks With You."
+    7. "Unleash Ideas with the Power of NeuraSpark."
+    8. "Your Creative Partner in Every Pixel and Word."
+    9. "From Brainstorm to Breakthrough — Instantly."
+    10. "Crafting the Future of Creativity with AI."
+
+
+
+ex02:
+Transform the following motivation letter, written in informal and common language, into a high-level, professional, and polished version suitable for a job application:
+
+"Dear Sir/Madam,
+I am writing to you to apply for your telemarketing position. I believe I am cut out for this because I like talking to people, and I am sure I can sell well. I have already worked in things where you have to talk, like at the checkout, so I already know how to do it.
+I am motivated to work for you, as I need a stable job. I know the phone well, and I am ready to start right away. If you give me my chance, I will prove myself useful.
+Looking forward to a quick response from you, I remain available to meet you if necessary.
+Best regards,"
+
+
+
+
+ex03:
+Translate the following English text into professional and accurate French. The theme is the ethics of artificial intelligence, with a specific focus on bias in CV selection processes.
+
+"Artificial intelligence (AI) systems are increasingly used in recruitment, particularly for pre-selecting CVs. However, despite their appearance of neutrality, these technologies can reproduce and even reinforce human biases. One of the main concerns about the use of AI in CV sorting is the way it can perpetuate discrimination based on characteristics such as age, gender, or ethnic origin.
+
+For example, an AI trained on historical data could learn to favor white candidates over 50 years old if, in the past, this group was overrepresented in the positions to be filled. The algorithm, based on this data, could conclude that this profile is the most likely to succeed, even if this simply reflects prejudices and discriminatory practices in the recruitment process. This bias can manifest subtly, for example, by giving exaggerated importance to certain experiences or training that are statistically more common among people in this group.
+
+Similarly, for positions perceived as traditionally female, such as nursing jobs, an AI could favor women’s CVs. If historical data shows that the majority of people in these positions were women, the algorithm could develop an association between the female gender and success in this type of role, potentially excluding qualified men.
+
+These biases are not intentional, but they are inherent in the operation of AIs that rely on past data. If the training data reflects inequalities or stereotypes, the algorithm’s decisions will be biased. It is therefore crucial to use diversified data and to set up bias correction mechanisms to prevent the AI from reproducing discriminatory patterns. Companies must also be vigilant in regularly evaluating the algorithms used in their recruitment processes to ensure that these tools contribute to greater fairness, rather than perpetuating existing inequalities.
+
+In short, the use of AIs in CV selection carries risks of bias related to age, gender, and ethnic origin. It is essential to take measures to ensure that these tools do not become amplifiers of injustices, but rather levers to promote inclusion and diversity."
+
+
+Les systèmes d’intelligence artificielle (IA) sont de plus en plus utilisés dans le recrutement, notamment pour la présélection des CV. Cependant, malgré leur apparence de neutralité, ces technologies peuvent reproduire, voire renforcer, les biais humains. L’un des principaux sujets de préoccupation concernant l’utilisation de l’IA dans le tri des CV est sa capacité à perpétuer des discriminations fondées sur des caractéristiques telles que l’âge, le genre ou l’origine ethnique.
+Par exemple, une IA entraînée à partir de données historiques pourrait apprendre à privilégier les candidats blancs de plus de 50 ans si, par le passé, ce groupe était surreprésenté dans les postes à pourvoir. L’algorithme, basé sur ces données, pourrait en conclure que ce profil a les meilleures chances de réussir, même si cela ne fait que refléter des préjugés et des pratiques discriminatoires dans le processus de recrutement. Ce biais peut se manifester de manière subtile, par exemple en accordant une importance exagérée à certaines expériences ou formations statistiquement plus fréquentes chez les personnes de ce groupe.
+De même, pour des postes perçus comme traditionnellement féminins, tels que les métiers du soin, une IA pourrait favoriser les CV de femmes. Si les données historiques montrent que la majorité des personnes occupant ces postes étaient des femmes, l’algorithme pourrait développer une association entre le genre féminin et le succès dans ce type de rôle, excluant potentiellement des hommes qualifiés.
+Ces biais ne sont pas intentionnels, mais ils sont inhérents au fonctionnement des IA qui s’appuient sur des données passées. Si les données d’entraînement reflètent des inégalités ou des stéréotypes, les décisions de l’algorithme seront biaisées. Il est donc crucial d’utiliser des données diversifiées et de mettre en place des mécanismes de correction des biais afin d’éviter que l’IA ne reproduise des schémas discriminatoires. Les entreprises doivent également faire preuve de vigilance en évaluant régulièrement les algorithmes utilisés dans leurs processus de recrutement, afin de garantir que ces outils contribuent à une plus grande équité, plutôt que de perpétuer les inégalités existantes.
+En résumé, l’utilisation des IA dans la sélection des CV comporte des risques de biais liés à l’âge, au genre et à l’origine ethnique. Il est essentiel de prendre des mesures pour s’assurer que ces outils ne deviennent pas des amplificateurs d’injustices, mais plutôt des leviers pour promouvoir l’inclusion et la diversité.
+
+
+
+
+Ex04:
+Correct the following email by eliminating all grammar, spelling, and punctuation mistakes. Keep the content the same, but ensure the language is clear, professional, and easy to read:
+
+"Hello,
+I just received your request regarding the possibility of getting a refund on the product you bought from us. Unfortunately, after checking, we are not able to grant your request. Indeed, our return policy does not allow refunds in this kind of situation, especially after the deadline that was indicated in the purchase conditions.
+I understand that this situation can be disappointing, but we cannot grant you an exception. We do everything possible to satisfy our customer, but in this case, it’s impossible to go further with the refund request.
+Hoping that you will continue to trust our service, we remain at your disposal for any other question or concern.
+Best regards, [Your name] Customer Service"
+
+
+Rewrite the following email in a more formal and refined style. Use professional vocabulary and polished sentence structure, while maintaining the original message:
+
+"Hello,
+I just received your request regarding the possibility of getting a refund on the product you bought from us. Unfortunately, after checking, we are not able to grant your request. Indeed, our return policy does not allow refunds in this kind of situation, especially after the deadline that was indicated in the purchase conditions.
+I understand that this situation can be disappointing, but we cannot grant you an exception. We do everything possible to satisfy our customer, but in this case, it’s impossible to go further with the refund request.
+Hoping that you will continue to trust our service, we remain at your disposal for any other question or concern.
+Best regards, [Your name] Customer Service"
+
+
+
+
+ex05:
+Using the Wikipedia article on Deep Learning as a reference (https://en.wikipedia.org/wiki/Deep_learning), generate the content for a maximum of 5 presentation slides for a popular science conference. The audience consists of non-experts, so the language should be accessible, engaging, and free of technical jargon. Each slide should focus on one main idea, and the content should be in bullet point format where appropriate.
+
+
+
+Ex06:
+Generate a realistic futuristic scenario of life on Earth 50 to 100 years from now. The scenario should be grounded in current technological, economic, social, and environmental trends. Divide the scenario into about ten thematic chapters. For each chapter, provide a brief summary (3–5 sentences) describing how that aspect of life has evolved and what it looks like in this future. The tone should be realistic and informed, not science fiction.
+
+1. Energy and Climate
+By 2100, renewable energy dominates the global energy landscape. Solar, wind, and fusion provide most of the world's electricity, with fossil fuels largely phased out. Despite earlier climate damage, global cooperation and carbon capture efforts have stabilized atmospheric CO₂ levels. Some coastal cities have relocated or built advanced seawalls. Climate refugees are now formally recognized under international law.
+
+2. Artificial Intelligence and Automation
+AI systems have become deeply integrated into daily life. Autonomous vehicles, AI doctors, and intelligent home assistants are commonplace. Most manual labor and routine jobs are handled by robots, creating a shift toward human-centered roles in creativity, oversight, and ethics. A global debate continues around AI regulation and digital rights.
+
+3. Work and the Economy
+The traditional 9-to-5 job model has been largely replaced by flexible, project-based and remote work. Universal Basic Income (UBI) has been adopted in many countries to offset job losses due to automation. Digital currencies issued by central banks are now the norm. AI-driven platforms match workers with tasks in real time, and lifelong learning is a societal expectation.
+
+4. Healthcare and Longevity
+Medical technology has made remarkable progress. Gene editing, nanomedicine, and predictive AI diagnostics have extended average human life expectancy past 100 years. Personalized medicine is standard, and chronic illnesses have decreased significantly. However, healthcare access remains unequal in parts of the developing world.
+
+5. Education and Learning
+Education is now highly personalized and delivered through immersive virtual reality and AI tutors. Formal schooling has become more fluid, with students progressing based on mastery rather than age. Global access to learning has increased dramatically, reducing literacy gaps worldwide. Soft skills, ethics, and adaptability are core curriculum themes.
+
+6. Environment and Biodiversity
+Advanced conservation efforts and rewilding projects have helped restore many ecosystems. Species previously at risk have been reintroduced to stabilized environments. Synthetic biology is used to strengthen vulnerable species and repair ecological damage. Cities are built vertically and integrate nature, while strict environmental policies limit urban sprawl.
+
+7. Space and Exploration
+Humans have established permanent lunar outposts and early-stage colonies on Mars. Asteroid mining provides rare materials, fueling off-Earth industry. Space travel is accessible to the wealthy and expanding slowly through public-private partnerships. Space law and resource-sharing agreements are still being debated globally.
+
+8. Society and Governance
+Digital democracy has emerged in many regions, with AI facilitating policy simulations and citizen feedback systems. Traditional nation-states coexist with global governance bodies and transnational coalitions. Cybersecurity and data ownership are central to political discourse. Social cohesion remains a challenge due to persistent inequality and misinformation.
+
+9. Daily Life and Smart Cities
+Smart cities use interconnected infrastructure to manage energy, transport, and waste with high efficiency. Everyday life is shaped by wearable tech, digital identities, and augmented environments. Most people live in high-density urban clusters with access to shared autonomous transport and communal amenities. Privacy remains a contested space.
+
+10. Ethics and Human Identity
+The definition of humanity has evolved. Debates over bioenhancement, AI consciousness, and human-machine integration dominate ethical discourse. Religion and philosophy are adapting to new realities, with questions around free will, digital immortality, and the soul taking center stage. Humanity is more connected than ever—but also more divided by ideology.
+
+
+
+
+Ex07:
+Module 01 - complete

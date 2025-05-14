@@ -1,0 +1,23 @@
+﻿Ex00:
+Hello World!.
+
+Ex01:
+I chose ChatGPT from chatgpt.com because it is well-documented, offers a user-friendly interface, and provides reliable and accurate answers. I also already had an OpenAI account, so signing in was easy.
+
+ex02:
+A Large Language Model (LLM) learns from vast text data to understand patterns in human language. It uses neural networks, especially transformers, to predict and generate text. This allows it to answer questions, write code, and simulate human-like conversation.
+
+Ex03:
+The development of AI began with early studies of logic and computation, leading to the formal creation of the field in 1956. After cycles of high expectations and disappointing results, the field experienced periods of reduced funding known as "AI winters." AI revived in the 1980s with expert systems and again in the 2010s with the rise of deep learning, driven by improved hardware and access to large datasets. Recent breakthroughs like AlphaGo and GPT-3 have sparked massive investments and widespread interest, shifting focus toward both advanced capabilities and ethical concerns.
+
+ex04:
+The email thread discusses concerns about the use of language models (LLMs) and the potential risks of exposing sensitive data. Marie Dupuis, the Data Protection Officer, raises the issue of GDPR violations and the need for strict regulations. Claire Martin, the Head of Legal, agrees and proposes creating a charter on LLM usage, while Jean Lefebvre, the Chief Information Officer, suggests technical solutions like filtering sensitive data. Thomas Durand, the Head of Digital Projects, also supports these concerns and proposes restricting LLM access to certain data. Nathalie Dupont, the CEO, encourages swift action to implement these measures.
+
+ex05:
+Draft a short introductory paragraph about Microsoft. Limit the response to a maximum of 500 characters.
+
+Ex06:
+Draft a thank you and summary email for a client meeting on Fri. Nov. 15 with BuzzAI. The discussion included a product presentation on analyzing the buzz around a product, a demo with the tech teams (date to be set), and a budget evaluation for 2 months of surveillance by BuzzAI. Include a thank-you note for their time and contribution.
+
+Ex07:
+Module 00 - complete

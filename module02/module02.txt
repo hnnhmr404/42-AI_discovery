@@ -1,0 +1,99 @@
+﻿Ex00:
+https://https://deepai.org/
+Create image a Rubik’s Cube
+
+
+
+ex01:
+A small, simple box with a sheep inside. The box is closed, and the sheep is visible inside, looking peaceful.
+
+A cartoon-style illustration of a small, simple box with a sheep inside. The box is closed, and the sheep is visible inside, looking peaceful.
+
+A pop-art style image of a small, simple box with a sheep inside. The box is closed, and the sheep is visible inside, looking peaceful.
+
+
+
+Ex02:
+slide 1: An educational illustration showing the concept of deep learning as inspired by the human brain. A stylized brain connected to a digital neural network with glowing lines and data points, over a modern blue background. Visual elements suggest AI, learning, and data flow.
+
+Slide 2: A digital illustration showing how deep learning works using neural networks. Depict stylized artificial neurons connected by glowing lines, with abstract data flowing between them. Show visual examples like images, sound waves, and text around the network. Futuristic and educational style.
+
+Slide 3: A colorful infographic-style illustration showing everyday uses of deep learning. Include a smartphone with facial recognition, a streaming service interface with recommendations, a medical scan with AI analysis, and a self-driving car detecting road signs and people. Clean and modern style
+
+slide 4: An inspirational digital illustration showing the impact of deep learning. Depict robots and AI systems working alongside humans in medicine, science, and transportation. Highlight data flowing into systems, symbolizing improvement and learning. Futuristic and optimistic mood, clean and modern design.
+
+Slide 5: A conceptual digital illustration showing the ethical challenges of deep learning. Represent data privacy with a lock and data streams, show bias with a scale tipped unevenly, and depict energy usage with large server racks. Darker tones with symbolic imagery, thoughtful and reflective mood.
+
+
+
+Ex03:
+A modern, professional logo design for a tech company named 'NeuraSpark' with the slogan 'Where Ideas Take Flight'. The logo should feature a stylized brain or spark combined with wings or a flight element, representing innovation and intelligence. Use a clean, minimalist design with a white background, and a limited color palette of electric blue, black, and gray. The design should be sharp, geometric, and suitable for use on a website or business card.
+
+
+
+Ex04:
+Prompt: "A historical chart showing the global population growth over the past 2000 years. Include a timeline from year 1 to 2020 and show population in billions increasing over time, with clear axis labels and data points."
+Result: AI image generator produced a stylized infographic or artistic chart, but it lacked accuracy, real axis labels, and was not suitable for formal or data-driven presentations.
+
+Prompt: "Generate a line chart using Python/Matplotlib that shows the evolution of the global population from year 1 to 2020. Include clear axis labels and approximate population values."
+Tool Used: ChatGPT with Python (Matplotlib)
+Result: A precise and presentation-ready line chart.
+
+
+
+Ex05:
+File Name: ex05.pdf
+AI Tool Used: Canva Magic Design
+Prompt Used: "Create a presentation for beginners explaining deep learning in simple terms using this:
+Slide 1: What Is Deep Learning?
+Deep learning is a type of artificial intelligence (AI) inspired by how the human brain works.
+It helps computers learn from large amounts of data without being explicitly programmed.
+It powers technologies like voice assistants, image recognition, and translation apps.
+Slide 2: How Does It Work?
+Deep learning uses "neural networks" that mimic brain cells.
+These networks learn by analyzing patterns in data—like pictures, sounds, or text.
+The more data they get, the better they become at recognizing and predicting.
+Slide 3: Everyday Uses of Deep Learning
+Smartphones: Facial recognition and voice commands
+Streaming services: Movie and music recommendations
+Healthcare: Detecting diseases from medical scans
+Self-driving cars: Recognizing roads, signs, and people
+Slide 4: Why Is Deep Learning a Big Deal?
+It allows machines to do things that once seemed only possible for humans.
+It improves constantly as it processes more data.
+It enables automation in fields like science, medicine, and transportation.
+Slide 5: Challenges and Ethical Questions
+Deep learning needs a lot of data, raising privacy concerns.
+It can sometimes learn harmful biases present in its data.
+Researchers are working to make it more fair, transparent, and energy-efficient.”
+
+
+
+
+ex06:
+File Name: ex06.html
+Editor Used: Sublime Text
+Summary: I created my first local web page using Sublime Text. I wrote simple HTML code, saved the file with a .html extension, and opened it in Chrome. Everything worked perfectly. I learned that HTML files can be created and run entirely offline, and Sublime made the process easier by highlighting the code.
+
+
+
+
+Ex07:
+File Name: ex07.html
+Summary: I made a copy of my original HTML file and updated the content to promote a local training session about the dangers of AI. I added a title, bullet points for session topics, styled the text in different sizes and colors, and included a relevant image. I used Sublime Text to write and edit the code.
+
+
+
+
+Ex08:
+Generate an image with the following characteristics:
+• The image should depict a red cat with blue eyes.
+• The full body of the cat should be visible.
+• The cat is lying on a green blanket, on top of a bed.
+• The full bed should be visible.
+
+A full-body red cat with blue eyes lying on a green blanket. The blanket is spread across a bed, and the entire bed is fully visible in the image. The scene should be realistic and clearly show all elements: the red cat, green blanket, and full bed in a cozy bedroom setting.
+
+A full-body red cat with blue eyes lying on a green blanket. The blanket is spread across a bed, and the entire bed is fully visible in the image. The scene should be realistic and clearly show all elements: the red cat, green blanket, and full bed in a cozy bedroom setting. Make sure that the blanket is there.
+
+A full-body red cat with blue eyes lying on a green blanket. The blanket is spread across a bed, and the entire bed is fully visible in the image. The scene should be realistic and clearly show all elements: the red cat, green blanket, and full bed in a cozy bedroom setting. Make sure that the blanket is there and the whole bed can be seen.
